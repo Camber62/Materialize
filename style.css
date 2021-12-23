@@ -1,0 +1,20 @@
+span.badge{
+    min-width: unset;
+}
+.left-main li:hover{
+    background-color: #e4f6fe;
+}
+.left-main li{
+    margin-bottom:unset;
+    padding: 5px;
+}
+.edit-btn{
+    width:100%;
+    background-color: #8bd8fb;
+}
+.card-image.profile{
+    padding: 20px;
+}
+.profile img{
+    max-width: 200px;
+}
