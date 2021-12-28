@@ -22,3 +22,6 @@ span.badge{
 table tr{
     border-bottom: none;
 }
+td{
+    vertical-align: top;
+}
